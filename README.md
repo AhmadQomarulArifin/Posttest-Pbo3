@@ -14,7 +14,22 @@ Program ini adalah manajemen data hewan di klinik yang dibuat dengan bahasa Java
 
 
 
+
+
+
+
+
+
+
 <img width="288" height="189" alt="image" src="https://github.com/user-attachments/assets/fa9dadfe-3271-49a7-b283-de19e93f6bfa" />
+
+
+
+
+
+
+
+
 
 
 
@@ -33,7 +48,25 @@ Program ini terdiri dari lima class , yaitu class Hewan, Burung, dan Ikan yang b
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="993" height="234" alt="image" src="https://github.com/user-attachments/assets/4239a4fc-cc7b-4fd4-8fdf-34995b814a7f" />
+
+
+
+
+
+
+
 
 
 
@@ -49,7 +82,23 @@ Program ini terdiri dari lima class , yaitu class Hewan, Burung, dan Ikan yang b
 
 
 
+
+
+
+
+
+
+
+
+
+
 <img width="1010" height="137" alt="image" src="https://github.com/user-attachments/assets/98196ac9-389d-4c6c-bbfe-bbc1a98a243f" />
+
+
+
+
+
+
 
 
 
@@ -75,7 +124,21 @@ Pada program ini, setiap class memiliki properti yang berbeda sesuai dengan pera
 
 
 
+
+
+
+
+
+
+
 <img width="973" height="160" alt="image" src="https://github.com/user-attachments/assets/633d3ac6-69bb-4625-a025-4bd9efe429ba" />
+
+
+
+
+
+
+
 
 
 
@@ -97,7 +160,25 @@ Pada program ini, setiap class memiliki properti yang berbeda sesuai dengan pera
 
 
 
+
+
+
+
+
+
+
+
+
+
 <img width="984" height="86" alt="image" src="https://github.com/user-attachments/assets/c5f57f54-4dcc-4549-85d5-8b44c0f4532c" />
+
+
+
+
+
+
+
+
 
 
 
@@ -122,7 +203,28 @@ Class Hewan memiliki constructor yang digunakan untuk menginisialisasi enam prop
 
 
 
+
+
+
+
+
+
+
+
+
 <img width="604" height="71" alt="image" src="https://github.com/user-attachments/assets/d40d1619-a1de-47b1-829a-c7930837becf" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -141,7 +243,29 @@ Class Hewan memiliki constructor yang digunakan untuk menginisialisasi enam prop
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="287" height="56" alt="image" src="https://github.com/user-attachments/assets/c9e7ad07-c10e-4038-8a7d-ecbe13b47990" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -156,6 +280,18 @@ Class Hewan memiliki constructor yang digunakan untuk menginisialisasi enam prop
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="458" height="114" alt="image" src="https://github.com/user-attachments/assets/4d7efc90-99e6-4a56-a9b8-bfc97179ed79" />
 
 
@@ -163,7 +299,28 @@ Class Hewan memiliki constructor yang digunakan untuk menginisialisasi enam prop
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="699" height="149" alt="image" src="https://github.com/user-attachments/assets/3d0dfa41-8227-48fc-9147-01f1741326b5" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -186,7 +343,28 @@ Pada program Klinik Hewan, seluruh atribut pada class Hewan, Burung, dan Ikan me
 
 
 
+
+
+
+
+
+
+
+
+
+
 <img width="290" height="181" alt="image" src="https://github.com/user-attachments/assets/d3a417b6-1b17-4671-85b6-b2f7e3c99e25" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -212,7 +390,27 @@ Program Klinik Hewan ini disusun menggunakan konsep package untuk memisahkan cla
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="287" height="187" alt="image" src="https://github.com/user-attachments/assets/4df419db-f501-4e09-846f-d3e4ba1ff415" />
+
+
+
+
+
+
+
+
+
 
 
 
@@ -239,6 +437,16 @@ Program Klinik Hewan ini menerapkan pola Model–View–Controller (MVC) untuk m
 
 
 
+
+
+
+
+
+
+
+
+
+
 <img width="232" height="189" alt="image" src="https://github.com/user-attachments/assets/dc8d3789-e374-4554-9045-8f09616958a9" />
 
 
@@ -248,7 +456,28 @@ Program Klinik Hewan ini menerapkan pola Model–View–Controller (MVC) untuk m
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="293" height="230" alt="image" src="https://github.com/user-attachments/assets/e5c0e5d1-138d-40b9-b861-3fb22c21d605" />
+
+
+
+
+
+
+
+
+
 
 
 
@@ -271,7 +500,27 @@ Program Klinik Hewan sudah dilengkapi dengan validasi input untuk memastikan dat
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="411" height="273" alt="image" src="https://github.com/user-attachments/assets/6e3d8b27-fa15-424b-bd9c-fa22b71f1c2e" />
+
+
+
+
+
+
+
+
+
 
 
 
@@ -293,7 +542,27 @@ Program Klinik Hewan menyediakan fitur pencarian data hewan (search) untuk memud
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="677" height="354" alt="image" src="https://github.com/user-attachments/assets/6f097e13-dd8d-4657-9531-aa12d938f020" />
+
+
+
+
+
+
+
+
 
 
 
@@ -317,7 +586,25 @@ Program Klinik Hewan menerapkan konsep encapsulation dengan cara menjadikan semu
 
 
 
+
+
+
+
+
+
+
+
 <img width="296" height="236" alt="image" src="https://github.com/user-attachments/assets/70e1fae3-10bf-43ed-a23d-e7609c6b6658" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -335,6 +622,18 @@ Program Klinik Hewan menerapkan konsep encapsulation dengan cara menjadikan semu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/94def4bb-e730-4db3-b217-68fedcce153e" />
 
 
@@ -343,7 +642,29 @@ Program Klinik Hewan menerapkan konsep encapsulation dengan cara menjadikan semu
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22f87f64-0416-4d66-abf9-7d19e2f7c31b" />
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -367,7 +688,31 @@ disini kita  menerapkan konsep inheritance (pewarisan) dengan menjadikan class H
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/6a4d6a8b-e533-442d-924e-32657eb285ad" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -387,6 +732,19 @@ disini kita  menerapkan konsep inheritance (pewarisan) dengan menjadikan class H
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="685" height="144" alt="image" src="https://github.com/user-attachments/assets/66d7be5e-16ae-4a46-9fc1-f04e6ff79f21" />
 
 
@@ -396,7 +754,29 @@ disini kita  menerapkan konsep inheritance (pewarisan) dengan menjadikan class H
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="373" height="242" alt="image" src="https://github.com/user-attachments/assets/142079ea-b9ad-404a-8d79-f39c5ab56200" />
+
+
+
+
+
+
+
+
 
 
 
@@ -427,7 +807,31 @@ disini kita menerapkan konsep overriding, yaitu ketika subclass menuliskan ulang
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="186" height="122" alt="image" src="https://github.com/user-attachments/assets/de269e00-bbb2-4cd4-ab58-6f36e5e14f9c" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -448,7 +852,31 @@ Program memiliki 6 pilihan menu:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 <img width="304" height="294" alt="image" src="https://github.com/user-attachments/assets/f2e373c8-b62f-4ece-898e-ace322f14569" />
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -467,6 +895,18 @@ Program memiliki 6 pilihan menu:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="299" height="279" alt="image" src="https://github.com/user-attachments/assets/8e773889-70dc-49fe-9f95-15b1e4f6c5df" />
 
 
@@ -474,7 +914,34 @@ Program memiliki 6 pilihan menu:
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 dan ini adalh tampilan jika nomor hp kosng dan umur kurang dari 0 maka akan terkeluar sdari menambah data
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -495,7 +962,33 @@ dan ini adalh tampilan jika nomor hp kosng dan umur kurang dari 0 maka akan terk
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="298" height="240" alt="image" src="https://github.com/user-attachments/assets/2af46780-360a-4b17-8c69-ee475a708e89" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -514,6 +1007,23 @@ dan ini adalh tampilan jika nomor hp kosng dan umur kurang dari 0 maka akan terk
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="579" height="504" alt="image" src="https://github.com/user-attachments/assets/ab5ee127-59e6-416e-8c1c-254f0f1f9f95" />
 
 
@@ -524,7 +1034,31 @@ dan ini adalh tampilan jika nomor hp kosng dan umur kurang dari 0 maka akan terk
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 dan ini adalah tampilan menu ke 2 jika data belum ada
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -544,7 +1078,28 @@ dan ini adalah tampilan menu ke 2 jika data belum ada
 
 
 
+
+
+
+
+
+
+
+
+
 3.menu yang ketiga adalah ubah data, jadi pada menu ini user memilih nomor mana yang akan diubah, kemudian user mengubah datanya
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -563,7 +1118,31 @@ dan ini adalah tampilan menu ke 2 jika data belum ada
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 tampilan menu ke 3 jika nomor yang diinput tidak ada di data
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -582,7 +1161,33 @@ tampilan menu ke 3 jika nomor yang diinput tidak ada di data
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 4. menu yang keempat adalah hapus data, jadi dimenu ini user dapat menghapus data dengan memilih nomor yang ingin dihapus.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -598,7 +1203,31 @@ tampilan menu ke 3 jika nomor yang diinput tidak ada di data
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 tampilan menu ke 4 jika data yang mau di hapus tidak ada dalam data
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -616,6 +1245,16 @@ tampilan menu ke 4 jika data yang mau di hapus tidak ada dalam data
 
 
 
+
+
+
+
+
+
+
+
+
+
 tampilan menu ke 4 jika data belum ada
 
 
@@ -623,7 +1262,29 @@ tampilan menu ke 4 jika data belum ada
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="206" height="192" alt="image" src="https://github.com/user-attachments/assets/5e24264c-3635-4f53-9b1b-daa8bfcfefd8" />
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -643,7 +1304,34 @@ tampilan menu ke 4 jika data belum ada
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="440" height="265" alt="image" src="https://github.com/user-attachments/assets/5cce6ced-3906-424b-bab4-206e68e3c55c" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -662,7 +1350,31 @@ tampilan menu ke 4 jika data belum ada
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 <img width="532" height="251" alt="image" src="https://github.com/user-attachments/assets/32a549a9-496d-43fb-a445-f00df0067d23" />
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -680,7 +1392,27 @@ jika user memilih angka 7 atau seterusnya maka pilihan tidak valid
 
 
 
+
+
+
+
+
+
+
+
+
+
 <img width="205" height="167" alt="image" src="https://github.com/user-attachments/assets/e9c88c7a-2575-4e3b-b53f-a67f0813b4c1" />
+
+
+
+
+
+
+
+
+
+
 
 
 
